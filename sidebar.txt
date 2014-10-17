@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wut:home|Door43 (wut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wut|d43-wut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wut/archive/master.zip|d43-wut.zip]]
+
+**Recent Changes**
+{{changes>ns = wut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wut|Ethnologue data]]
+
